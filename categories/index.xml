@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HLC Advising Initiative</title>
+    <link>http://vieker.github.io/hlc/categories/</link>
+    <description>Recent content in Categories on HLC Advising Initiative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright Truman State University</copyright><atom:link href="http://vieker.github.io/hlc/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
