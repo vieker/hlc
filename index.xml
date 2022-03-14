@@ -8,6 +8,15 @@
     <language>en-us</language>
     <copyright>Copyright Truman State University</copyright><atom:link href="http://vieker.github.io/hlc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Announcement: Advising Handbook Forthcoming</title>
+      <link>http://vieker.github.io/hlc/posts/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vieker.github.io/hlc/posts/overview/</guid>
+      <description>[Content about the Advising Handbook.]</description>
+    </item>
+    
+    <item>
       <title>Background</title>
       <link>http://vieker.github.io/hlc/background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18,26 +27,25 @@ HLC  Regional accreditor Three &amp;ldquo;pathways&amp;rdquo; to accreditation W
     </item>
     
     <item>
+      <title>Overview: Truman&#39;s HLC Advising Initiative</title>
+      <link>http://vieker.github.io/hlc/posts/test-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vieker.github.io/hlc/posts/test-post/</guid>
+      <description>Start here for an introduction to Truman&amp;rsquo;s Advising initiative. You can also see who at Truman is contributing to this project, as well as a timeline for its completion.</description>
+    </item>
+    
+    <item>
       <title>People</title>
       <link>http://vieker.github.io/hlc/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vieker.github.io/hlc/people/</guid>
-      <description>(We might add links to the finished work of each of these groups)
+      <description>(For each group, I will add a link to their finished work.)
 Task Groups Syllabus and Communication Task Group Spring 2022
  Andrea Maag, CAE Jana Arabas, HES Jeffrey Vittengl, PSYC  Learning Outcomes Task Group Fall 2021
  Jenny Marcus, CAE Dave Lusk, Career Center Priscilla Riggle, ENG Karen Vittengl, PSYC  Tenure and Promotion Task Group Fall 2021
  Tim Walston, SAM Amber Johnson, SOAN/JUST Nancy Daley Moore, HES  Mission Statement Task Group Spring 2020</description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>http://vieker.github.io/hlc/posts/test-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://vieker.github.io/hlc/posts/test-post/</guid>
-      <description>Howdy! Here&amp;rsquo;s some content about Truman&amp;rsquo;s HLC Advising Initiative.
-Start here for an introduction to Truman&amp;rsquo;s Advising initiative. You can also see who at Truman is contributing to this project, as well as a timeline for its completion.</description>
     </item>
     
     <item>
@@ -46,7 +54,7 @@ Start here for an introduction to Truman&amp;rsquo;s Advising initiative. You ca
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vieker.github.io/hlc/timeline/</guid>
-      <description>(This needs to be updated.)
+      <description>(This be updated and made more readable.)
  Fall 2020  subcommittees established subcommittee charges finalized preliminary recommendations drafted (a formal document produced by each subcommittee)   Spring 2021 (NSSE administered, FSSE administered and results returned)  preliminary recommendations reviewed by Steering Committee preliminary recommendations sent to Governance   Summer 2021  incorporate feedback on preliminary recommendation   Fall 2021 (NSSE results returned)  develop implementation procedures   Spring 2022 (NSSE administered)  develop implementation procedures   Summer 2022  communicate implementation procedures   Fall 2022 (NSSE results returned)  deploy implementation procedures   Spring 2023 (NSSE Administered, FSSE administered and results returned)  test implementation procedures   Summer 2023 Fall 2023 (NSSE results returned)  test implementation procedures   Spring 2024  draft final report    </description>
     </item>
     

@@ -2,19 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://vieker.github.io/hlc/posts/overview/</loc>
+  </url><url>
     <loc>http://vieker.github.io/hlc/background/</loc>
   </url><url>
     <loc>http://vieker.github.io/hlc/categories/</loc>
   </url><url>
     <loc>http://vieker.github.io/hlc/</loc>
   </url><url>
+    <loc>http://vieker.github.io/hlc/posts/test-post/</loc>
+  </url><url>
     <loc>http://vieker.github.io/hlc/people/</loc>
   </url><url>
     <loc>http://vieker.github.io/hlc/posts/</loc>
   </url><url>
     <loc>http://vieker.github.io/hlc/tags/</loc>
-  </url><url>
-    <loc>http://vieker.github.io/hlc/posts/test-post/</loc>
   </url><url>
     <loc>http://vieker.github.io/hlc/timeline/</loc>
   </url>

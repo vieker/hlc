@@ -8,13 +8,21 @@
     <language>en-us</language>
     <copyright>Copyright Truman State University</copyright><atom:link href="http://vieker.github.io/hlc/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
+      <title>Announcement: Advising Handbook Forthcoming</title>
+      <link>http://vieker.github.io/hlc/posts/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vieker.github.io/hlc/posts/overview/</guid>
+      <description>[Content about the Advising Handbook.]</description>
+    </item>
+    
+    <item>
+      <title>Overview: Truman&#39;s HLC Advising Initiative</title>
       <link>http://vieker.github.io/hlc/posts/test-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vieker.github.io/hlc/posts/test-post/</guid>
-      <description>Howdy! Here&amp;rsquo;s some content about Truman&amp;rsquo;s HLC Advising Initiative.
-Start here for an introduction to Truman&amp;rsquo;s Advising initiative. You can also see who at Truman is contributing to this project, as well as a timeline for its completion.</description>
+      <description>Start here for an introduction to Truman&amp;rsquo;s Advising initiative. You can also see who at Truman is contributing to this project, as well as a timeline for its completion.</description>
     </item>
     
   </channel>
